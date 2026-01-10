@@ -6,7 +6,7 @@
   <body>
     BAI TAP
     <ol>
-         <li> <a href="content/gioithieu.html"> GIOI THIEU </a> </li>
+         <li> <a href="contents/gioithieu.html"> GIOI THIEU </a> </li>
          <li> <a href="contents/tkb.html"> THOI KHOA BIEU </a> </li>
     </ol>
     TAI LIEU
