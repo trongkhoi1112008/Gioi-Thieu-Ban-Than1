@@ -1,1 +1,19 @@
-
+<html>
+  <head>
+    <meta charset="uft-8">
+ 
+  </head>
+  <body>
+    BAI TAP
+    <ol>
+      <li> <a href="content/gioithieu.html"> GIOI THIEU </a> </li>
+         <li> <a href="contents/tkb.html"> THOI KHOA BIEU </a> </li>
+      <li> <a href="contents/tinhoc12.html"> CHUONG TRINH TIN 12  </a> </li>
+    </ol>
+    TAI LIEU
+    <ul>
+      <li> W3school</li>
+      <li> SACH GIAO KHOA</li>
+    </ul>
+  </body>
+</html>
