@@ -13,7 +13,7 @@
         <table>
           <tr>
             <td width="30%" style = "text-align: center; vertical-align: top;">
-              <img src="images/rororo.jpg" width="360" height="450">
+              <img src="/images/rororo.jpg" width="360" height="450">
             </td>
             <td>
               <h2> NICKNAME: </h2>
